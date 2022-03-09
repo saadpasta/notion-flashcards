@@ -18,6 +18,8 @@ describe("Index Page", () => {
   })
 
   describe("when you enter url and click submit", () => {
+    it("should call the notion api in our BE with the page id", () => {
 
+    })
   })
 })
